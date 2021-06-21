@@ -1,0 +1,21 @@
+{
+  "name": "awsomeKill/Apay",
+  "description": "结合优惠券、积分、微信、支付宝等组合支付",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+       "name": "moli",
+       "email": "934293138@qq.com"
+    }
+],
+  "minimum-stability": "dev",
+  "require": {
+      "php":">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "friker\\test\\": "src/"
+    }
+  }
+}
